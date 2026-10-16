@@ -46,7 +46,7 @@ EduPro Analytics is an educational data analysis project designed to organize, a
 ![Learner Data](Learner_Data.png)
 
 ### 3. Analysis and Visualization
-![Learner Analysis](%3CAnalysis%20.png)
+![Learner Analysis](Analysis.png)
 
 
 ## 📁 Project Structure
@@ -56,8 +56,6 @@ EduPro_GoogleSheets_Project/
 ├── README.md
 └── project files
 ```
-
-Add your actual spreadsheet exports, screenshots, documentation, or supporting files to the repository as appropriate.
 
 ## 🚀 How to Use
 
