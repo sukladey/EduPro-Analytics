@@ -37,7 +37,17 @@ EduPro Analytics is an educational data analysis project designed to organize, a
 - Visual reporting using charts and graphs
 - Insight generation to support educational analysis
 
-*The features above describe the project's intended scope. Include only those that are implemented in your actual spreadsheet.*
+## 📸 Project Screenshots
+
+### 1. Dashboard Overview
+![EduPro Analytics Dashboard](Dashboard.png)
+
+### 2. Learner Data
+![Learner Data](Learner_Data.png)
+
+### 3. Analysis and Visualization
+![Learner Analysis](%3CAnalysis%20.png)
+
 
 ## 📁 Project Structure
 
