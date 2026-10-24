@@ -62,7 +62,7 @@ EduPro_GoogleSheets_Project/
 
 ## 🔮 Future Improvements
 
-- Build an interactive dashboard using Looker Studio or Power BI.
+- Build an interactive dashboard using PowerBI.
 - Perform deeper analysis using Python, Pandas, and Matplotlib.
 - Automate recurring reports.
 - Add more learner performance metrics where suitable.
